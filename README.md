@@ -13,5 +13,3 @@ Welcome to the HackerRank SQL Query Practice Repository! In this repository, you
 **Conclusion**
 
 These SQL queries showcase my ability to extract specific insights from a database, demonstrating my proficiency in querying data and formulating logical solutions. By exploring the queries in this repository, you can gain insight into my thought process and approach to solving SQL challenges on the HackerRank platform.
-
-**Please note that the queries and data mentioned in this repository are for illustrative purposes and might not reflect real-world scenarios.**
